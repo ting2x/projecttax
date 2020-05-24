@@ -1,0 +1,15 @@
+D:\งาน อ.LHIN\realproject\realproject\bin\Debug\realproject.exe.config
+D:\งาน อ.LHIN\realproject\realproject\bin\Debug\realproject.exe
+D:\งาน อ.LHIN\realproject\realproject\bin\Debug\realproject.pdb
+D:\งาน อ.LHIN\realproject\realproject\obj\Debug\realproject.csprojAssemblyReference.cache
+D:\งาน อ.LHIN\realproject\realproject\obj\Debug\realproject.Form1.resources
+D:\งาน อ.LHIN\realproject\realproject\obj\Debug\realproject.Form3.resources
+D:\งาน อ.LHIN\realproject\realproject\obj\Debug\realproject.Form4.resources
+D:\งาน อ.LHIN\realproject\realproject\obj\Debug\realproject.Properties.Resources.resources
+D:\งาน อ.LHIN\realproject\realproject\obj\Debug\realproject.csproj.GenerateResource.cache
+D:\งาน อ.LHIN\realproject\realproject\obj\Debug\realproject.exe
+D:\งาน อ.LHIN\realproject\realproject\obj\Debug\realproject.pdb
+D:\งาน อ.LHIN\realproject\realproject\obj\Debug\realproject.Form5.resources
+D:\งาน อ.LHIN\realproject\realproject\obj\Debug\realproject.Form6.resources
+D:\งาน อ.LHIN\realproject\realproject\obj\Debug\realproject.Form2.resources
+D:\งาน อ.LHIN\realproject\realproject\obj\Debug\realproject.Form7.resources
